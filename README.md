@@ -14,3 +14,4 @@
 
 ## 참고글
 - [인상적인 이력서를 쓰는 법](https://world.hey.com/bach/post-025aca8b)
+- [데이터분석 포트폴리오 만드는 법](https://velog.io/@chjy100418/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95)
