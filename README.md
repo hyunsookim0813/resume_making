@@ -18,3 +18,4 @@
 - [커리어 시리즈 #1](https://suy379.tistory.com/18)
 - [커리어 시리즈 #2](https://suy379.tistory.com/32)
 - [커리어 시리즈 #3](https://suy379.tistory.com/185)
+- [Notion으로 포트폴리오 제작하기](https://heynini13.tistory.com/88)
