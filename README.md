@@ -21,3 +21,4 @@
 - [Notion으로 포트폴리오 제작하기](https://heynini13.tistory.com/88)
 - [데이터 사이언티스트, 머신러닝 엔지니어](https://www.rallit.com/hub/resumes/608949/%EC%A0%84%EA%B1%B4%EC%9A%B0)
 - [데이터 사이언티스트 / 분석가를 위한 경력 기술서 작성 팁과 첨삭 (1)](https://gils-lab.tistory.com/62)
+- [고졸 AI 개발자 이력서&포트폴리오 뿌셔보기](https://velog.io/@taki0412/jaeha-portfolio)
