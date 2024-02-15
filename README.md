@@ -26,3 +26,5 @@ https://kyechan99.github.io/resume
 - [포트폴리오 4주 만에 준비하기](https://velog.io/@vonvoyage27/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-IT-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%ED%8E%B8)
 - [신입 개발자의 포트폴리오 작성법](https://velog.io/@yoosion030/%EC%8B%A0%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EC%9E%91%EC%84%B1%EB%B2%95)
 - [기업이 포트폴리오와 이력서를 따로 받는 이](https://whkakrkr.tistory.com/entry/%EC%9D%B4%EB%A0%A5%EC%84%9C-%EC%96%91%EC%8B%9D-%EC%9D%B4%EB%A0%A5%EC%84%9C-%EB%85%B8%EC%85%98-%ED%85%9C%ED%94%8C%EB%A6%BF-%EA%B3%B5%EC%9C%A0)
+- [
+데이터분석 취린이를 위한 자소서&포트폴리오 준비](https://www.catch.co.kr/CatchClass/Vod/View/5897/Play?classMemberLectureId=7279)
