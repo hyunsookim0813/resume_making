@@ -28,3 +28,4 @@ https://kyechan99.github.io/resume
 - [기업이 포트폴리오와 이력서를 따로 받는 이](https://whkakrkr.tistory.com/entry/%EC%9D%B4%EB%A0%A5%EC%84%9C-%EC%96%91%EC%8B%9D-%EC%9D%B4%EB%A0%A5%EC%84%9C-%EB%85%B8%EC%85%98-%ED%85%9C%ED%94%8C%EB%A6%BF-%EA%B3%B5%EC%9C%A0)
 - [
 데이터분석 취린이를 위한 자소서&포트폴리오 준비](https://www.catch.co.kr/CatchClass/Vod/View/5897/Play?classMemberLectureId=7279)
+-[이력서 참고](https://ebnsbn25.notion.site/Kyuri-Kim-39f3df46a1b84e62a05aff09ed884aaf)
